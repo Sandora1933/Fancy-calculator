@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPanelBackground">#9110bc</color>
+    <color name="colorBackground">#700493</color>
+    <color name="colorDigit">#ede438</color>
+    <color name="colorDigitButton">#4b0e77</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorPink">#ff3dff</color>
+</resources>
